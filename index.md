@@ -12,8 +12,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 **Training:**
 
 * [CodeSchool: Try Git][]
-* [CodeSchool: Git Real 2][]
 * [CodeSchool: Git Real][]
+* [CodeSchool: Git Real 2][]
 * [Sparkbox how_to][]: your first experience with Git
 * [More Git][]: more Git practice
 * [CodeSchool: Try Ruby][]
@@ -22,7 +22,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [CodeSchool: Ruby Bits 1][]
 * [CodeSchool: Ruby Bits 2][]
 * [CodeSchool: Testing with RSpec][]
-* [Triangle Kata - Ruby][] *with test suite*
+* [CodeEval: Working Experience][] *with test suite*
 * [Game of Life Kata - Ruby][] *with test suite*
 * Game of Life - Git: push your project to Github for review
 * Game of Life - Review: code review your project with your technical director
@@ -32,6 +32,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Additional Resources:**
 
+* [Triangle Kata - Ruby][] *with test suite*
+* [CodeEval: Road Trip][] *with test suite*
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
 * [Why's Poignant Guide to Ruby][]
@@ -130,6 +132,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [CodeSchool: Ruby Bits 1]: http://www.codeschool.com/courses/ruby-bits
 [CodeSchool: Ruby Bits 2]: http://www.codeschool.com/courses/ruby-bits-part-2
 [CodeSchool: Testing with RSpec]: https://www.codeschool.com/courses/testing-with-rspec
+[CodeEval: Working Experience]: https://www.codeeval.com/browse/139/
+[CodeEval: Road Trip]: https://www.codeeval.com/browse/124/
 [Triangle Kata - Ruby]: http://onestepback.org/vital_testing/
 [Game of Life Kata - Ruby]: https://github.com/garora/TDD-Katas#game-of-life-
 [Ruby Warriors]: https://www.bloc.io/ruby-warrior/#/
