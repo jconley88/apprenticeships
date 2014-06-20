@@ -41,51 +41,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * Practical Vim ("sb-bookshelf" in Dropbox)
 * [Treehouse][]
 
-## Phase 2 - *Frontend Development: Markup, Style, Interaction, and Preprocessing*
-
-**Reading:**
-
-* [HTML5 for Web Designers][], Jeremy Keith
-* [CSS3 for Web Designers][], Dan Cederholm
-* [Responsive Web Design][], Ethan Marcotte
-* [Mobile First][], Luke Wroblewski
-* [Design is a Job][], Mike Monteiro
-
-**Ongoing Programming Projects:**
-
-* [Game of Life Kata - Ruby][]
-* [FizzBuzz Kata - Ruby][]
-* [Bowling Kata - Ruby][]
-* Tic-tac-toe Kata - Ruby
-
-**Training:**
-
-* Introduction to frontend project
-* [CodeSchool: Functional HTML5 & CSS3][]
-* [CodeSchool: HTML5 & CSS3 Updates Screencast][]
-* [CodeSchool: CSS Cross-Country][]
-* Frontend project style prototype review
-* Frontend project HTML review
-* Frontend project CSS review
-* [CodeSchool: Assembling Sass][]
-* [CodeSchool: Assembling Sass Part 2][]
-* Introduction to Compass
-* Frontend project Sass review (CSS to be rewritten)
-* [CodeSchool: Journey Into Mobile][]
-* Frontend project RWD practices review (CSS to be rewritten)
-* [CodeAcademy: Introduction to JavaScript][]
-* Introduction to Jasmine
-* [FizzBuzz Kata - Javascript][] *with unit tests*
-* [CodeSchool: CoffeeScript][]
-* [CodeSchool: jQuery Air: First Flight][]
-* [CodeSchool: jQuery Air: Captain's Log][]
-* Frontend project JavaScript review (CSS to be rewritten)
-* Frontend project final review and launch!
-
-**Additional Resources:**
-
-* [TryJasmine][]
-
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
 **Reading:**
@@ -115,6 +70,13 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Rails Recipes][]
 * [Rails Test Prescriptions][]
 
+**Ongoing Programming Projects:**
+
+* [Game of Life Kata - Ruby][]
+* [FizzBuzz Kata - Ruby][]
+* [Bowling Kata - Ruby][]
+* Tic-tac-toe Kata - Ruby
+
 [Getting Real]: http://gettingreal.37signals.com/
 [Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
 [CodeSchool: Try Git]: http://www.codeschool.com/courses/try-git
@@ -137,27 +99,12 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [Triangle Kata - Ruby]: http://onestepback.org/vital_testing/
 [Game of Life Kata - Ruby]: https://github.com/garora/TDD-Katas#game-of-life-
 [Ruby Warriors]: https://www.bloc.io/ruby-warrior/#/
-[HTML5 for Web Designers]: http://www.abookapart.com/products/html5-for-web-designers
-[CSS3 for Web Designers]: http://www.abookapart.com/products/css3-for-web-designers
-[Responsive Web Design]: http://www.abookapart.com/products/responsive-web-design
-[Mobile First]: http://www.abookapart.com/products/mobile-first
-[Design is a Job]: http://www.abookapart.com/products/design-is-a-job
 [FizzBuzz Kata - Ruby]: https://github.com/garora/TDD-Katas#the-fizzbuzz-kata
 [FizzBuzz Kata - Javascript]: https://github.com/garora/TDD-Katas#the-fizzbuzz-kata
 [Bowling Kata - Ruby]: https://github.com/garora/TDD-Katas#the-bowling-game-kata
 [CodeSchool: Rails for Zombies 1 (Redux)]: http://www.codeschool.com/courses/rails-for-zombies-redux
 [CodeSchool: Rails for Zombies 2]: http://www.codeschool.com/courses/rails-for-zombies-2
 [CodeSchool: Rails Testing for Zombies]: http://www.codeschool.com/courses/rails-testing-for-zombies
-[CodeSchool: Functional HTML5 & CSS3]: https://www.codeschool.com/courses/functional-html5-css3
-[CodeSchool: HTML5 & CSS3 Updates Screencast]: https://www.codeschool.com/code_tv/html5-css3-updates
-[CodeSchool: CSS Cross-Country]: https://www.codeschool.com/courses/css-cross-country
-[CodeSchool: Assembling Sass]: https://www.codeschool.com/courses/assembling-sass
-[CodeSchool: Assembling Sass Part 2]: https://www.codeschool.com/courses/assembling-sass-part-2
-[CodeSchool: Journey Into Mobile]: https://www.codeschool.com/courses/journey-into-mobile
-[CodeAcademy: Introduction to JavaScript]: http://www.codecademy.com/tracks/javascript
-[CodeSchool: CoffeeScript]: http://coffeescript.codeschool.com/
-[CodeSchool: jQuery Air: First Flight]: https://www.codeschool.com/courses/try-jquery
-[CodeSchool: jQuery Air: Captain's Log]: https://www.codeschool.com/courses/jquery-air-captains-log
 [Exceptional Ruby]: http://exceptionalruby.com/
 [The Rails 3 Way]: http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321601661
 [Agile Web Development With Rails]: http://pragprog.com/book/rails4/agile-web-development-with-rails-4
@@ -165,6 +112,5 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [Rails Recipes]: http://pragprog.com/book/fr_rr/rails-recipes
 [Rails Test Prescriptions]: http://pragprog.com/book/nrtest/rails-test-prescriptions
 [Code school: Rails Best Practices]: https://www.codeschool.com/courses/rails-best-practices
-[TryJasmine]:http://tryjasmine.com/
 [Treehouse]:http://teamtreehouse.com/
 
